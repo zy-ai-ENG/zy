@@ -21,7 +21,8 @@
 ## 扫码获取
 ### 微信扫码
 > 备注：AIGC咨询
-< img src='images/wechat.png' width='180' alt='微信二维码'/>
+
+![输入图片说明]('images/wechat.png')
 
 
 ### QQ扫码
