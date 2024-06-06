@@ -22,13 +22,13 @@
 ### 微信扫码
 > 备注：AIGC咨询
 
-< img src='/images/wechat.png' width='180' alt='微信二维码'/>
+
+![输入图片说明](images/wechat.png)
 
 ### QQ扫码
 > 备注：AIGC咨询
 
-< img src='/images/qq.png' width='180' alt='QQ二维码'/>
-
+![输入图片说明](images/qq.png)
 ## 你需要准备
 - 域名
 - 服务器：建议配置2核2G5M带宽
