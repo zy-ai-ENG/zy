@@ -86,9 +86,9 @@
 #### 控制台
 ![输入图片说明](images/%E6%8D%95%E8%8E%B7_%E5%89%AF%E6%9C%AC.jpg)
 #### AI绘画管理
-![](./images/a2.webp)
+![输入图片说明](images/%E7%BB%98%E7%94%BB%E5%85%A8%E5%B1%80%E8%AE%BE%E7%BD%AE.JPG)
 #### AI绘画配置
-![](./images/a3.webp)
+![输入图片说明](images/%E7%BB%98%E7%94%BB%E5%85%A8%E5%B1%80%E8%AE%BE%E7%BD%AE_%E5%89%AF%E6%9C%AC.jpg)
 #### AI对话配置
 ![](./images/a4.webp)
 #### 绘画账号池
