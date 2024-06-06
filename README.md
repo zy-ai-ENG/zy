@@ -84,7 +84,7 @@
 
 ### 后台管理
 #### 控制台
-![](./images/a1.webp)
+![输入图片说明](images/%E6%8D%95%E8%8E%B7_%E5%89%AF%E6%9C%AC.jpg)
 #### AI绘画管理
 ![](./images/a2.webp)
 #### AI绘画配置
