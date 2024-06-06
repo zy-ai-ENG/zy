@@ -69,15 +69,14 @@
 > 截图非实时更新，实际请以演示站及最新版本的为准
 
 ### PC端浅色模式
-![](./images/qianse/图混图过程.png)
-![](./images/qianse/图生图过程.png)
-![](./images/qianse/点击图片详情1.png)
-![](./images/qianse/热门应用.png)
-![](./images/qianse/绘画任务.png)
-![](./images/qianse/绘画首页.png)
-![](./images/qianse/绘画首页详情.png)
-![](./images/qianse/首页对话.png)
-![](./images/qianse/首页对话详情.png)
+![输入图片说明](images/%E6%8D%95%E8%8E%B7.JPG)
+![输入图片说明](images/%E6%8D%95%E8%8E%B71.JPG)
+![输入图片说明](images/%E6%8D%95%E8%8E%B72.JPG)
+![输入图片说明](images/%E6%8D%95%E8%8E%B73.JPG)
+![输入图片说明](images/%E6%8D%95%E8%8E%B75.JPG)
+![输入图片说明](images/%E6%8D%95%E8%8E%B76.JPG)
+![输入图片说明](images/%E6%8D%95%E8%8E%B77.JPG)
+
 
 ### 移动端
 ![](./images/绘画.png)
