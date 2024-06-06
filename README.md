@@ -22,7 +22,7 @@
 ### 微信扫码
 > 备注：AIGC咨询
 
-![输入图片说明](images/wechat.png){width=50% height=50%}
+![输入图片说明](images/wechat.png width=50% height=50%){}
 
 ### QQ扫码
 > 备注：AIGC咨询
