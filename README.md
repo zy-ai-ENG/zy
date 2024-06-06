@@ -86,20 +86,12 @@
 #### 控制台
 ![输入图片说明](images/%E6%8D%95%E8%8E%B7_%E5%89%AF%E6%9C%AC.jpg)
 #### AI绘画管理
-![输入图片说明](images/%E7%BB%98%E7%94%BB%E5%85%A8%E5%B1%80%E8%AE%BE%E7%BD%AE.JPG)
+![输入图片说明](images/%E7%BB%98%E7%94%BB%E7%AE%A1%E7%90%86_%E5%89%AF%E6%9C%AC.png)
 #### AI绘画配置
 ![输入图片说明](images/%E7%BB%98%E7%94%BB%E5%85%A8%E5%B1%80%E8%AE%BE%E7%BD%AE_%E5%89%AF%E6%9C%AC.jpg)
-#### AI对话配置
-![](./images/a4.webp)
-#### 绘画账号池
-![](./images/a5.webp)
 #### 支付配置
-![](./images/a6.webp)
-#### 站点配置
-![](./images/a7.webp)
-#### 兑换码管理
-![](./images/a8.webp)
-#### 站点自定义样式及脚本
-![](./images/a9.webp)
+![输入图片说明](images/%E6%94%AF%E4%BB%98%E9%85%8D%E7%BD%AE_%E5%89%AF%E6%9C%AC.jpg)
+用户配置
+![输入图片说明](images/%E7%94%A8%E6%88%B7_%E5%89%AF%E6%9C%AC.jpg)
 #### 动态菜单配置
-![](./images/a10.webp)
+![输入图片说明](images/%E5%8A%A8%E6%80%81%E8%8F%9C%E5%8D%95_%E5%89%AF%E6%9C%AC.jpg)
