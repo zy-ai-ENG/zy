@@ -67,9 +67,39 @@
 ## 截图
 > 截图非实时更新，实际请以演示站及最新版本的为准
 
-### PC端深色模式
-![](./images/shense/图混图界面.png)
-![](./images/shense/图生图界面.png)
-![](./images/shense/我的绘画界面.png)
-![](./images/shense/插件商店弹窗.png)
-![](./image
+### PC端浅色模式
+![](./images/qianse/图混图过程.png)
+![](./images/qianse/图生图过程.png)
+![](./images/qianse/点击图片详情1.png)
+![](./images/qianse/热门应用.png)
+![](./images/qianse/绘画任务.png)
+![](./images/qianse/绘画首页.png)
+![](./images/qianse/绘画首页详情.png)
+![](./images/qianse/首页对话.png)
+![](./images/qianse/首页对话详情.png)
+
+### 移动端
+![](./images/绘画.png)
+![](./images/问答创作.png)
+
+### 后台管理
+#### 控制台
+![](./images/a1.webp)
+#### AI绘画管理
+![](./images/a2.webp)
+#### AI绘画配置
+![](./images/a3.webp)
+#### AI对话配置
+![](./images/a4.webp)
+#### 绘画账号池
+![](./images/a5.webp)
+#### 支付配置
+![](./images/a6.webp)
+#### 站点配置
+![](./images/a7.webp)
+#### 兑换码管理
+![](./images/a8.webp)
+#### 站点自定义样式及脚本
+![](./images/a9.webp)
+#### 动态菜单配置
+![](./images/a10.webp)
