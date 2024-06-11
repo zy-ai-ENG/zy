@@ -92,7 +92,7 @@
 ![输入图片说明](images/%E7%BB%98%E7%94%BB%E5%85%A8%E5%B1%80%E8%AE%BE%E7%BD%AE_%E5%89%AF%E6%9C%AC.jpg)
 #### 支付配置
 ![输入图片说明](images/%E6%94%AF%E4%BB%98%E9%85%8D%E7%BD%AE_%E5%89%AF%E6%9C%AC.jpg)
-用户配置
+#### 用户配置
 ![输入图片说明](images/%E7%94%A8%E6%88%B7_%E5%89%AF%E6%9C%AC.jpg)
 #### 动态菜单配置
 ![输入图片说明](images/%E5%8A%A8%E6%80%81%E8%8F%9C%E5%8D%95_%E5%89%AF%E6%9C%AC.jpg)
