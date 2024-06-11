@@ -1,0 +1,6 @@
+/*!
+  * shared v9.2.2
+  * (c) 2022 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+const e="undefined"!=typeof window,t="function"==typeof Symbol&&"symbol"==typeof Symbol.toStringTag,o=e=>t?Symbol(e):e,n=(e,t,o)=>a({l:e,k:t,s:o}),a=e=>JSON.stringify(e).replace(/\u2028/g,"\\u2028").replace(/\u2029/g,"\\u2029").replace(/\u0027/g,"\\u0027"),s=e=>"number"==typeof e&&isFinite(e),l=e=>"[object Date]"===h(e),c=e=>"[object RegExp]"===h(e),i=e=>k(e)&&0===Object.keys(e).length;function f(e,t){"undefined"!=typeof console&&(console.warn("[intlify] "+e),t&&console.warn(t.stack))}const r=Object.assign;let p;const y=()=>p||(p="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{});function g(e){return e.replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&apos;")}const u=Object.prototype.hasOwnProperty;function b(e,t){return u.call(e,t)}const d=Array.isArray,j=e=>"function"==typeof e,w=e=>"string"==typeof e,S=e=>"boolean"==typeof e,O=e=>null!==e&&"object"==typeof e,m=Object.prototype.toString,h=e=>m.call(e),k=e=>"[object Object]"===h(e),T=e=>null==e?"":d(e)||k(e)&&e.toString===m?JSON.stringify(e,null,2):String(e);export{d as a,k as b,w as c,S as d,r as e,j as f,y as g,c as h,O as i,g as j,s as k,i as l,n as m,l as n,o,b as p,e as q,T as t,f as w};

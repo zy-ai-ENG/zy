@@ -1,0 +1,1 @@
+function e(e){const t={origin:!0,...e};let o;o=t.origin?document.createElement("textarea"):document.createElement("input"),o.setAttribute("readonly","readonly"),o.value=t.text,document.body.appendChild(o),o.select(),document.execCommand("copy")&&document.execCommand("copy"),document.body.removeChild(o)}export{e as c};

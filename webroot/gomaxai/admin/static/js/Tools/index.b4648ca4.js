@@ -1,0 +1,9 @@
+
+/**
+ * 由 Fantastic-admin 提供技术支持
+ * Powered by Fantastic-admin
+ * Gitee  https://gitee.com/hooray/fantastic-admin
+ * Github https://github.com/hooray/fantastic-admin
+ */
+  
+import{d as a,l as s,a as e,u as o,C as l,r as t,j as n,o as d,c as r,b as c,e as i,f as u,g as m,w as p,v as f,K as g,h,t as v,_ as w,p as _,k,q as y}from"../main-646ffc07.js";import{a as b}from"../index/index.13ce1046.js";const C=a=>(_("data-v-9116395c"),a=a(),k(),a),S={class:"tools"},x={class:"buttons"},j={class:"user-wrapper"},F=C((()=>c("div",{style:{color:"#3B82F6"}}," 修改密码 ",-1))),P=C((()=>c("div",{style:{color:"#FF3B30"}}," 退出登录 ",-1))),z=a({name:"Tools"}),B=y(a({...z,setup(a){const _=s(),k=e(),y=o();b();const C=l((()=>y.userinfo));function z(a){switch(a){case"modifyPwd":y.updateModifyPasswordDialog(!0);break;case"logout":y.logout().then((()=>{_.push({name:"login"})}))}}return t(!1),(a,s)=>{const e=w,o=n("el-icon"),l=n("el-avatar"),t=n("el-dropdown-item"),_=n("el-dropdown-menu"),b=n("el-dropdown");return d(),r("div",S,[c("div",x,[i(k).settings.toolbar.enableColorScheme?(d(),r("span",{key:0,class:"item",onClick:s[0]||(s[0]=a=>i(k).setColorScheme("dark"===i(k).settings.app.colorScheme?"light":"dark"))},[u(o,null,{default:m((()=>[p(u(e,{name:"ep:sunny"},null,512),[[f,"light"===i(k).settings.app.colorScheme]]),p(u(e,{name:"ep:moon"},null,512),[[f,"dark"===i(k).settings.app.colorScheme]])])),_:1})])):g("",!0)]),u(b,{class:"user-container",size:"default",onCommand:z},{dropdown:m((()=>[u(_,{class:"user-dropdown"},{default:m((()=>[u(t,{command:"modifyPwd"},{default:m((()=>[F])),_:1}),u(t,{divided:"",command:"logout"},{default:m((()=>[P])),_:1})])),_:1})])),default:m((()=>[c("div",j,[u(l,{size:"small",src:i(C).avatar},null,8,["src"]),h(" "+v(`${i(y).username||"GoMaxAi"} `)+" ",1),u(o,null,{default:m((()=>[u(e,{name:"ep:caret-bottom"})])),_:1})])])),_:1})])}}}),[["__scopeId","data-v-9116395c"]]);export{B as default};

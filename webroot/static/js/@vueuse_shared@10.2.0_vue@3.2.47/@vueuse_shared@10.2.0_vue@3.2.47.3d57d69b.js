@@ -1,0 +1,1 @@
+import{l as t,n as e,o as n,r as i}from"../@vue_reactivity@3.2.47/@vue_reactivity@3.2.47.859737a0.js";const o="undefined"!=typeof window,r=()=>{};function s(...o){if(1!==o.length)return t(...o);const s=o[0];return"function"==typeof s?e(n((()=>({get:s,set:r})))):i(s)}export{o as i,s as t};
