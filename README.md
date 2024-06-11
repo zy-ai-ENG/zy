@@ -8,7 +8,7 @@
 
 ## 产品介绍
 - 本系统使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区开发。数据库底层使用 MYSOL，WEB环境使用 PHP7.4 和niginx1.20.2，下面是简单功能个绍，还有更多细节无法一介绍，需要你自己下载并安装才能体验。
-- 🔥 产品全功能介绍文档、部署教程等相关内容请(https://pxl6xtaj0ew.feishu.cn/wiki/Zaaqw0x3GiOfUXkYqFmcMy4bnXe?from=from_copylink）查看。🔥 
+- 🔥 产品全功能介绍文档、部署教程等相关内容请https://w0760jamkm8.feishu.cn/wiki/BVQCwpPe9i4D1GkARfJcLqUNn9g?fromScene=spaceOverview查看。🔥 
 
 ## 演示站点
 - [立即进入体验](https://gomaxai.qumao518.vip)
