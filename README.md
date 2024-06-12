@@ -11,7 +11,7 @@
 - 🔥 产品全功能介绍文档、部署教程等相关内容请(https://pxl6xtaj0ew.feishu.cn/wiki/Zaaqw0x3GiOfUXkYqFmcMy4bnXe?from=from_copylink）查看。🔥 
 
 ## 演示站点
-- [立即进入体验](https://gomaxai.qumao518.vip)
+- [立即进入体验](https://yanshi.qumao518.vip)
 
 ## 技术架构
 - 前端：Vue3 
